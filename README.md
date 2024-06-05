@@ -1,1 +1,1 @@
-# Poplar_divergence
+# Scripts within this repository are associated with analyses performed in Bolte et al. (2024) Genomic insights into hybrid zone formation: the role of climate, landscape, and demography in the emergence of a novel hybrid lineage. _Molecular Ecology_
